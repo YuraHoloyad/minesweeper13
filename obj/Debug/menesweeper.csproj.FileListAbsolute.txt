@@ -1,0 +1,10 @@
+c:\users\uraaa\source\repos\menesweeper\menesweeper\bin\Debug\menesweeper.exe.config
+c:\users\uraaa\source\repos\menesweeper\menesweeper\bin\Debug\menesweeper.exe
+c:\users\uraaa\source\repos\menesweeper\menesweeper\bin\Debug\menesweeper.pdb
+c:\users\uraaa\source\repos\menesweeper\menesweeper\obj\Debug\menesweeper.csprojResolveAssemblyReference.cache
+c:\users\uraaa\source\repos\menesweeper\menesweeper\obj\Debug\menesweeper.menesweeper.resources
+c:\users\uraaa\source\repos\menesweeper\menesweeper\obj\Debug\menesweeper.Properties.Resources.resources
+c:\users\uraaa\source\repos\menesweeper\menesweeper\obj\Debug\menesweeper.csproj.GenerateResource.cache
+c:\users\uraaa\source\repos\menesweeper\menesweeper\obj\Debug\menesweeper.csproj.CoreCompileInputs.cache
+c:\users\uraaa\source\repos\menesweeper\menesweeper\obj\Debug\menesweeper.exe
+c:\users\uraaa\source\repos\menesweeper\menesweeper\obj\Debug\menesweeper.pdb
